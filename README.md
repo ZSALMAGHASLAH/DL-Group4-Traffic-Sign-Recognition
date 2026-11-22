@@ -1,0 +1,1 @@
+Traffic sign classification on GTSRB (43 classes): a Custom CNN trained from scratch compared with ImageNet-pretrained YOLOv8n-cls. Includes dataset analysis, grid-search tuning, and evaluation by accuracy, macro-F1, confusion matrices, model size and CPU inference time. ARTI 502 Deep Learning project, IAU.
